@@ -10,4 +10,5 @@ Sample website with plenty of files for demos
  added copyright
 
 ## Changes in branch copyright
-   Changes made in copyright branhces for automatic merge 
+   Changes made in copyright branhces for automatic merge
+   canges again made for conflict in master readme
